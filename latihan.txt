@@ -1,1 +1,2 @@
 Ini file latihan pertama!
+Saya akan menambahkan teks baru untuk di pull
